@@ -1,5 +1,5 @@
 ### Hi there 👋.
-+ I am currently a graduate student in UIUC-CS. I'm interested in graphics, computer vision, and artificial intelligence related projects. Typically, I'm interested in physics simulation, computer animation, differentiable rendering, inverse rendering and some related topics.
++ I am currently an Incoming Ph.D student in NYCU-CS. I'm interested in graphics, computer vision, and artificial intelligence related projects. Typically, I'm interested in physics simulation, computer animation, differentiable rendering, inverse rendering and some related topics.
 
 
 
