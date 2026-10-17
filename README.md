@@ -1,6 +1,5 @@
 ### Hi there 👋.
-+ I am a research assistant in Comp Photo Lab at NYCU, and is planning to apply for Ph.D in US. I recieved my master degree from UIUC-CS. I'm interested in graphics, computer vision, and artificial intelligence related projects. Typically, I'm interested in physics simulation, computer animation, differentiable rendering, inverse rendering and some related topics.
-
++ I am a Ph.D student in Comp Photo Lab at NYCU. I recieved my master degree from UIUC-CS. I'm interested in graphics, computer vision, and artificial intelligence related projects. Recently I'm interested in applying computer vision techniques in robotics area.
 
 
 
